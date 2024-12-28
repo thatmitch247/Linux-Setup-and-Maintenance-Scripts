@@ -1,4 +1,5 @@
 Overview / Purpose:
+To run immediately after install-then-reboot, to verify that the Ubuntu system has installed properly (based on the package .manifest file that accompanies the .iso file on the server).
 
 1. Download the necessary files (manifest, list, SHA256SUMS, and SHA256SUMS.gpg) from the specified URL.
 2. Verify the integrity of the downloaded files using the SHA256 checksums.
